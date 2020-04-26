@@ -1,0 +1,2 @@
+rootProject.name='auto_image_slide'
+include ':app'
